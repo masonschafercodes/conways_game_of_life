@@ -2,6 +2,8 @@
 
 The point of this project was to get better at using Typescript and React Hooks. I found that there are more efficient ways of using hooks.
 
+Live Preview: [Preview](https://masonschafercodes.github.io/conways_game_of_life/)
+
 ### Technologies Used
 ---
 - React
